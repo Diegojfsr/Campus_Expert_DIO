@@ -15,8 +15,10 @@ Repositório criado para documentar meu passo a passo no DIO Campus Expert | Tur
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
 <li> Boas Vindas - Aula (Live): Conheça o propósito da DIO e como será sua jornada no Campus Expert <a href="https://"> Acessar </a></li>
-<li> Módulo I - Curso: Saiba como se tornar uma liderança em sua universidade!. <a href="https://"> Acessar </a></li>
-<li> Módulo II - Curso: Saiba usar o LinkedIn de forma estratégica para atrair grandes empresas de tecnologia! <a href="https://"> Acessar </a></li>
+<li> Curso: Saiba como se tornar uma liderança em sua universidade!. <a href="https://"> Acessar </a></li>
+<li> Curso: Saiba usar o LinkedIn de forma estratégica para atrair grandes empresas de tecnologia! <a href="https://"> Acessar </a></li>
+<li> Curso: Saiba criar artigos técnicos com temas atuais que atraem big techs contratantes! <a href="https://"> Acessar </a></li>
+<li> Curso: Aprenda a criar vídeos que expõem suas habilidades e ajudem a comunidade tech.! <a href="https://"> Acessar </a></li>
 
 </ul>
 
